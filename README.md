@@ -1,4 +1,4 @@
-# PYTHON_BASICS01FAC_25BCON2534
+# PYTHON_basics_factorial_25Bcon2534
 
 ## Factorial Calculator
 A simple Python application that calculates the factorial
